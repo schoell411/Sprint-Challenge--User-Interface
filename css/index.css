@@ -278,3 +278,15 @@ footer nav a {
 #box10 {
     background-color: dodgerblue;
 }
+
+/* footer styling
+footer a {
+    border: 1px solid red;
+    width: 4em;
+    text-align: center;
+}
+footer a:hover {
+    color: black;
+    background-color: white;
+    border-radius: 200px;
+} */
