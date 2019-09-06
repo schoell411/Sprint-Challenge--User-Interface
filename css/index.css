@@ -292,3 +292,31 @@ footer a:hover {
     background-color: white;
     border-radius: 200px;
 } */
+
+/* about page styling */
+.info_section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.about_page_box {
+    margin: 20px 0;
+    width: 48%;
+    /* justify-content: space-between; */
+}
+.about_pic {
+    width: 100%;
+}
+.about_page_box h1, .about_page_box p, .about_page_box a, .bottom_info {
+    margin: 25px 0;
+}
+.about_page_box a {
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px 15px;
+    border-radius: 8px;
+}
+.about_page_box, .top_info, .bottom_info {
+    border-bottom: 1px dashed black;
+    padding-bottom: 25px;
+} 
