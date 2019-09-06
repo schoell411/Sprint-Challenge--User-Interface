@@ -242,7 +242,7 @@ footer nav a {
   text-decoration: none;
   color: black;
 }
-.freeway_pic {
+.freeway_pic, .skyline_pic {
     width: 100%;
     margin-bottom: 2em;
     /* border: 1px solid red; */
