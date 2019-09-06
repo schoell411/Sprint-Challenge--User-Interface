@@ -242,42 +242,43 @@ footer nav a {
   text-decoration: none;
   color: black;
 }
-.freeway_pic, .skyline_pic {
-    width: 100%;
-    margin-bottom: 2em;
-    /* border: 1px solid red; */
+.freeway_pic,
+.skyline_pic {
+  width: 100%;
+  margin-bottom: 2em;
+  /* border: 1px solid red; */
 }
 
 /* box styling */
 #box1 {
-    background-color: teal;
-} 
+  background-color: teal;
+}
 #box2 {
-    background-color: gold;
+  background-color: gold;
 }
 #box3 {
-    background-color: cadetblue;
+  background-color: cadetblue;
 }
 #box4 {
-    background-color: coral;
+  background-color: coral;
 }
 #box5 {
-    background-color: crimson;
+  background-color: crimson;
 }
 #box6 {
-    background-color: forestgreen;
+  background-color: forestgreen;
 }
 #box7 {
-    background-color: darkorchid;
+  background-color: darkorchid;
 }
 #box8 {
-    background-color: hotpink;
+  background-color: hotpink;
 }
 #box9 {
-    background-color: indigo;
+  background-color: indigo;
 }
 #box10 {
-    background-color: dodgerblue;
+  background-color: dodgerblue;
 }
 
 /* footer styling
